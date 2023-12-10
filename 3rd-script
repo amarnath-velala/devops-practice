@@ -1,0 +1,4 @@
+### regarding date
+#!/bin/bash
+Date=$(date)
+echo " this is the time where the script is created: $Date"
