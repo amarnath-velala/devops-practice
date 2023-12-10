@@ -1,5 +1,8 @@
 #!/bin/bash
-echo "Amar, whats going on"
-echo "Asha, nothing, let it be"
-echo "amar, okay, let's see"
-echo "yes"
+x=Amar
+y=Asha
+echo "$x, whats going on"
+echo "$y, nothing, let it be"
+echo "$x, okay, let's see"
+echo "$y: yes"
+
