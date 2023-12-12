@@ -1,0 +1,3 @@
+#!/bin/bash
+candidates=("Amar" "Asha" "Rishi")
+echo "The first person name is : ${candidates[0]}"
